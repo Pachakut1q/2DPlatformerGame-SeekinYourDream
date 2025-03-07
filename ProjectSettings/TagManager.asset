@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Void
+  - End
+  - PrologueArea
+  - EndArea
+  - Enemies
+  - GhostArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2638242989
+    locked: 0
+  - name: Platforms
+    uniqueID: 237528929
+    locked: 0
+  - name: Enemies
+    uniqueID: 3809722553
+    locked: 0
+  - name: Player
+    uniqueID: 2984436289
+    locked: 0
+  - name: Foreground
+    uniqueID: 2038895785
+    locked: 0
+  - name: UI
+    uniqueID: 76171523
+    locked: 0
