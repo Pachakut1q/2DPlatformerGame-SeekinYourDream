@@ -1,1 +1,2 @@
-# 2DPlatformerGame-SeekinYourDream
+# 2DPlatformerGame-SeekinYourDream  
+This is in Chinese  
