@@ -6,4 +6,5 @@ This is in Chinese
 队伍名：破烂皮划艇  
 策划：九叶  
 美术：air、西瓜  
-程序：我
+程序：我  
+宣传视频：https://www.bilibili.com/video/BV1hCzoYEEAW/?spm_id_from=333.1387.favlist.content.click&vd_source=0d7c245b59beefaa202dc4abf4ee9ae6
